@@ -1,3 +1,4 @@
+#import packages
 import GetOldTweets3 as got
 from pandas import Series, DataFrame
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
